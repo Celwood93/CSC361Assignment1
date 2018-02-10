@@ -1,0 +1,41 @@
+#!/bin/bash
+
+./SmartClient.py www.cbc.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.uvic.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.google.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.mcgill.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.youtube.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.akamai.com
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www2.gov.bc.ca
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.python.org
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.aircanada.com
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
+
+./SmartClient.py www.bbc.com
+
+read -rsp $'Press any key or wait 1 minute to continue...\n' -n 1 -t 10;
